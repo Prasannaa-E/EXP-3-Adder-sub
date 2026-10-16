@@ -11,7 +11,6 @@ Half Adder:
 Half Subtractor:
 •	Difference = A ⊕ B
 •	Borrow = A' . B
-
 ### Files to be Created
 File name	Purpose
 half_add_sub.v	Arithmetic-circuit RTL
@@ -138,8 +137,6 @@ The design was compiled and simulated using Synopsys VCS, and the functionality 
 ### Output
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/197803df-a8e6-43e5-b4e8-74df77baf41b" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/556d684b-836d-4d46-94cd-3ad360301340" />
-
-
 ### Viva-Voce Questions
 
 •	What is a Half Adder, and what are its limitations compared to a Full Adder?
